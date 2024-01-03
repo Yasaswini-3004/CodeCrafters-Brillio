@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 <div align="center">
   <h3 align="center">Streamlining Recruitment Process with Open AI</h3>
 </div>
@@ -30,7 +31,7 @@
 
 
 <!-- Problem Statement  -->
-## <a name="problem-statement"></a> Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
+## <a name="problem-statement"></a> align="justify" Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
 
 In the dynamic landscape of talent acquisition, our Talent Acquisition team faces a significant challenge that hampers efficiency and agility in the recruitment process. The current manual tagging process in Lever demands 2 to 3 minutes per resume, consuming a staggering 400 to 600 minutes daily across various geographies. This manual effort not only strains our resources but also introduces the risk of oversight and delays in identifying the right candidates.
 
