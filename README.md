@@ -22,6 +22,7 @@
     </li>
     <li><a href="#system-architecture">System Architecture</a></li>
     <li><a href="#about-us">About Us</a></li>
+    <li><a href="#about-us">Acknowledgments</a></li>
   </ol>
 </details>
 
