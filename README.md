@@ -1,6 +1,5 @@
 <div align="center">
-  <h3 align="center">Effortless Resume Tagging with AI in Lever & Revolutionizing Talent
-Acquisition with Metaverse Interviews</h3>
+  <h3 align="center">Effortless Resume Tagging with AI in Lever</h3>
 
 </div>
 
