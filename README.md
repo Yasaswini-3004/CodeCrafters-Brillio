@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <div align="center">
   <h3 align="center">Streamlining Recruitment Process with Open AI</h3>
 </div>
@@ -31,23 +30,23 @@
 
 
 <!-- Problem Statement  -->
-## <a name="problem-statement"></a> align="justify" Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
-
-In the dynamic landscape of talent acquisition, our Talent Acquisition team faces a significant challenge that hampers efficiency and agility in the recruitment process. The current manual tagging process in Lever demands 2 to 3 minutes per resume, consuming a staggering 400 to 600 minutes daily across various geographies. This manual effort not only strains our resources but also introduces the risk of oversight and delays in identifying the right candidates.
-
-Furthermore, the absence of a unified platform compounds the problem. Navigating through the entire recruitment lifecycle lacks a seamless experience, causing disjointed workflows and hampering collaboration among team members. Auto-scheduling interviews is a persistent issue, leading to bottlenecks and affecting the overall recruitment timeline.
-
-Real-time insights and candidate matching, crucial for identifying the ideal fit, are currently missing from our arsenal. The lack of an automated system to streamline these processes not only impedes productivity but also hinders our ability to respond swiftly to the ever-evolving talent landscape.
-
+## <a name="problem-statement"></a> Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
+<div align="justify">
+  In the dynamic landscape of talent acquisition, our Talent Acquisition team faces a significant challenge that hampers efficiency and agility in the recruitment process. The current manual tagging process in Lever demands 2 to 3 minutes per resume, consuming a staggering 400 to 600 minutes daily across various geographies. This manual effort not only strains our resources but also introduces the risk of oversight and delays in identifying the right candidates.
+<br><br>
+  Furthermore, the absence of a unified platform compounds the problem. Navigating through the entire recruitment lifecycle lacks a seamless experience, causing disjointed workflows and hampering collaboration among team members. Auto-scheduling interviews is a persistent issue, leading to bottlenecks and affecting the overall recruitment timeline.
+<br><br>
+  Real-time insights and candidate matching, crucial for identifying the ideal fit, are currently missing from our arsenal. The lack of an automated system to streamline these processes not only impedes productivity but also hinders our ability to respond swiftly to the ever-evolving talent landscape.
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- Proposed Solution  -->
 ## <a name="proposed-solution"></a>Proposed Solution: Transformative Recruitment Lifecycle Automation
+<div align = "justify">
 To address these challenges, we aim to develop a comprehensive, automated recruitment lifecycle management system. Our goal is to integrate seamlessly with Lever and other existing tools to create a unified platform that simplifies and accelerates the entire recruitment process.<br><br>
   <b>Key Features:</b><br>
 <ul>
-
   <li>
     <b>Efficient Boosting:</b><br>
     By leveraging advanced technologies and intelligent algorithms, we significantly reduce the time spent on repetitive and time-consuming activities, such as the manual tagging of resumes. from 2-3 minutes of manual tagging per resume to less than one minute in generating tags.
@@ -69,7 +68,7 @@ To address these challenges, we aim to develop a comprehensive, automated recrui
     Our Job Posting feature is designed to empower recruiters in advertising positions effectively. Recruiters can create and publish job listings directly from the platform, streamlining the process and ensuring timely exposure to potential candidates. The feature allows for customization, enabling recruiters to highlight key details and attract the right talent.
   </li>
 </ul>
-
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
