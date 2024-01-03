@@ -1,32 +1,18 @@
 <div align="center">
-  <h3 align="center">Effortless Resume Tagging with AI in Lever</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Streamlining Recruitment Process with Open AI</h3>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#problem-statement">Problem Statement</a></li>
+    <li><a href="#proposed-solution">Proposed Solution</a></li>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#built-with">Built With</a>
     </li>
+    <li><a href="#output">Output</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -34,35 +20,23 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#system-architecture">System Architecture</a></li>
+    <li><a href="#about-us">About Us</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Problem Statement  -->
+## Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+In the dynamic landscape of talent acquisition, our Talent Acquisition team faces a significant challenge that hampers efficiency and agility in the recruitment process. The current manual tagging process in Lever demands 2 to 3 minutes per resume, consuming a staggering 400 to 600 minutes daily across various geographies. This manual effort not only strains our resources but also introduces the risk of oversight and delays in identifying the right candidates.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Furthermore, the absence of a unified platform compounds the problem. Navigating through the entire recruitment lifecycle lacks a seamless experience, causing disjointed workflows and hampering collaboration among team members. Auto-scheduling interviews is a persistent issue, leading to bottlenecks and affecting the overall recruitment timeline.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Real-time insights and candidate matching, crucial for identifying the ideal fit, are currently missing from our arsenal. The lack of an automated system to streamline these processes not only impedes productivity but also hinders our ability to respond swiftly to the ever-evolving talent landscape.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
