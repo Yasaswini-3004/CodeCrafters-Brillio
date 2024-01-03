@@ -29,7 +29,7 @@
 
 
 <!-- Problem Statement  -->
-## <a name="problem-statement"></a> Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
+### <a name="problem-statement"></a> Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
 <div align="justify">
   In the dynamic landscape of talent acquisition, our Talent Acquisition team faces a significant challenge that hampers efficiency and agility in the recruitment process. The current manual tagging process in Lever demands 2 to 3 minutes per resume, consuming a staggering 400 to 600 minutes daily across various geographies. This manual effort not only strains our resources but also introduces the risk of oversight and delays in identifying the right candidates.
 <br><br>
@@ -41,7 +41,7 @@
 
 
 <!-- Proposed Solution  -->
-## <a name="proposed-solution"></a>Proposed Solution: Transformative Recruitment Lifecycle Automation
+### <a name="proposed-solution"></a>Proposed Solution: Transformative Recruitment Lifecycle Automation
 <div align = "justify">
 To address these challenges, we aim to develop a comprehensive, automated recruitment lifecycle management system. Our goal is to integrate seamlessly with Lever and other existing tools to create a unified platform that simplifies and accelerates the entire recruitment process.<br><br>
   <b>Key Features:</b><br>
@@ -73,7 +73,7 @@ To address these challenges, we aim to develop a comprehensive, automated recrui
 
 
 <!-- Built With  -->
-## <a name="built-with"></a>Built With
+### <a name="built-with"></a>Built With
 Tools and technologies that are integrated into the project to enhance its functionality and development.
 
 * [![React][React.js]][React-url]
@@ -87,7 +87,7 @@ Tools and technologies that are integrated into the project to enhance its funct
 
 
 <!-- Output  -->
-## <a name="output"></a>Output
+### <a name="output"></a>Output
 This section showcases the results and outputs achieved through our project implementation.<br><br>
 After initiating the npm script, our local server launches automatically. This action triggers the opening of a web browser displaying a user interface resembling the screenshot showcased below. The screenshot offers a visual representation of the application's initial appearance in the local environment.
 
@@ -101,13 +101,13 @@ After successful login, it redirects to the homepage shown below
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 <!-- Prerequisites -->
-### Prerequisites
+#### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -116,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
   ```
   
 <!-- Installation -->
-### Installation
+#### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -139,7 +139,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+### Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
