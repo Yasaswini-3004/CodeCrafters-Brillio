@@ -28,7 +28,6 @@
 </details>
 
 
-
 <!-- Problem Statement  -->
 ## <a name="problem-statement"></a> Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management
 <div align="justify">
@@ -72,8 +71,10 @@ To address these challenges, we aim to develop a comprehensive, automated recrui
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### <a name="built-with"></a>Built With
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+<!-- Built With  -->
+## <a name="built-with"></a>Built With
+Tools and technologies that are integrated into the project to enhance its functionality and development.
 
 * [![React][React.js]][React-url]
 * [![Python][Python.org]][Python-url]
@@ -85,12 +86,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
+<!-- Output  -->
+## <a name="output"></a>Output
+This section showcases the results and outputs achieved through our project implementation.<br><br>
+After initiating the npm script, our local server launches automatically. This action triggers the opening of a web browser displaying a user interface resembling the screenshot showcased below. The screenshot offers a visual representation of the application's initial appearance in the local environment.
+
+![Screenshot (234)](https://github.com/Yasaswini-3004/CodeCrafters-Brillio/assets/54450118/579e0aa6-b076-4c24-92d2-41de10e4cfec)
+
+After successful login, it redirects to the homepage shown below
+
+![image](https://github.com/Yasaswini-3004/CodeCrafters-Brillio/assets/54450118/03182df0-0687-4300-8d91-a528f9f4c7ae)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+<!-- Prerequisites -->
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -98,7 +114,8 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-
+  
+<!-- Installation -->
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
@@ -134,7 +151,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
