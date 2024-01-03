@@ -1,0 +1,89 @@
+/* General styles */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.home-container {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 200px;
+  padding: 0px;
+  position: relative;
+}
+
+.home-content {
+  flex: 1;
+  margin: 15px;
+  position: relative;
+  
+}
+
+.calendar-container {
+  position: relative;
+  bottom: -170px;
+  left: 15px;
+  width: calc(100% - 30px); /* Adjust width if needed */
+  margin: 10 15px;
+  display: flex;
+  align-items: flex-start;
+
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@media screen and (max-width: 767px) {
+  .App-logo {
+    height: 30vmin;
+  }
+  
+  .home-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .home-content {
+    margin: 10px;
+  }
+  
+  .calendar-container {
+    bottom: -120px;
+    left: 0;
+    display: flex;
+  align-items: flex-start;
+  }
+  .blur-effect {
+    filter: blur(5px); /* Add blur effect when blur-effect class is active */
+  }
+  
+  .calendar-dashboard-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+}
+
+/* For screens between 768px and 1023px */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .App-logo {
+    height: 35vmin;
+  }
+}
+

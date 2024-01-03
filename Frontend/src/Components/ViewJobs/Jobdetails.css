@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  color: #D7D7D7;
+  /* background-color: #191919; */
+  background: rgb(24,24,24);
+  background: linear-gradient(90deg, rgba(24,24,24,1) 51%, rgba(47,47,47,1) 100%);
+  font-family: Arial, sans-serif;
+  /* background-image: url('https://www.brillio.com/wp-content/themes/brillio/assets/images/elements/future-imperatives-gradient-left.svg'); */
+  /* background-size: cover; Cover the entire background */
+  /* background-position: center;Center the background */
+  /* background-repeat: no-repeat; Prevent the background from repeatin  */
+}
+
+.career-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
+  justify-content: space-between;
+  text-align: left;
+  gap: 35px;
+  margin: 5%;  
+}
+
+.career-card-container {
+  margin-bottom: 20px;
+  width: calc(50% - 10px); /* Set width to occupy 50% of the container minus gap */ 
+}
+
+.job-card {
+  border: 0.5px solid #232323;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #000000;
+  color: white;
+  background-image: url('https://www.brillio.com/wp-content/themes/brillio/assets/images/elements/value-preposition-gradient-right.svg');
+  background-size: cover; /*Cover the entire background*/
+  background-position: center; /*Center the background */
+  background-repeat: no-repeat; /*Prevent the background from repeating*/
+}
+
+.job-card h2 {
+  margin-top: 0;
+}
+
+.job-card p {
+  margin: 5px 0;
+  font-size: 1.0rem;
+}
+
+.view-more-btn {
+  position: relative; /* Change from absolute to relative */
+  padding: 0; /* Remove padding for image button */
+  background: #5DD075;
+  border: 2px solid #5DD075;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: auto; /* Align to the bottom of the card */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+  margin-left: auto; /* Align to the right of the card */
+
+}
+
+.view-more-btn img {
+  width: 30px; 
+  height: 30px; 
+  padding:5px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .career-card-container {
+    width: calc(100% - 20px);
+  }
+
+  .job-card {
+    width: calc(100% - 40px); 
+    margin-bottom: 20px; 
+    font-size: 14px; 
+    padding: 15px; 
+  }
+
+  .view-more-btn {
+    width: 50px; 
+    height: 50px; 
+    margin-top: 10px; 
+  }
+
+  .view-more-btn img {
+    width: 20px; 
+    height: 20px; 
+    padding: 3px; 
+  }
+}

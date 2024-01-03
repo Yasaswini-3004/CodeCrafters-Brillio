@@ -1,0 +1,141 @@
+.container {
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;       
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Outfit;
+  }
+
+  .htag{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    color : #755fd0;
+  }
+
+  h2 {
+      text-align: center;
+      color: white;
+  }
+    
+  /* .tab {
+      display: flex;
+      justify-content: space-between;
+      margin-left: 43%;
+      margin-top: 32%;
+      width: 13%;
+  }
+
+  .tab-button {
+      padding: 10px;
+      margin-left: 20px;
+      background-color: #4caf50;
+      width: calc(50% - 5px); 
+      border: none;
+      color: #fff;
+      cursor: pointer;
+      border-radius: 4px;  
+  } */
+  
+  .tab-button:hover {
+      background-color: #45a049;
+  }
+  
+  .active-tab {
+      background-color: black;
+  }
+  
+  label {
+      display: block;
+      margin: 10px 0 5px;
+  }
+  
+  input {
+      width: 80%;
+      padding: 10px;
+      border: none;
+      border-bottom: 1px solid #fff;
+      background-color: transparent;
+      color: white;
+      outline: none;
+  }
+  
+    
+  input::placeholder {
+      color: white;
+      opacity: 0.5;
+  }
+  
+  button {
+      background-color: #4caf50;
+      color: #fff;
+      /* padding: 10px; */
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 40%;
+  }
+  
+  button:hover {
+      background-color: #5dd075;
+  }
+  
+  .error {
+      color: red;
+      text-align: center;
+      font-size: 14px;
+      margin-top: 10px;
+  }
+    
+  .success {
+      color: green;
+      text-align: center;
+      font-size: 14px;
+      margin-top: 10px;
+  }
+  
+  .tab {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 36.5%;
+    margin-top: 31%;
+    width: 26%;
+    font-family: Outfit;
+    
+
+  }
+  
+  .tab-button {
+    padding: 10px;
+    margin-left: 20px;
+    background-color: black;
+    width: calc(50% - 5px); 
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;  
+  } 
+  
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .tab {
+      margin-top: 63%; /* Adjust this value for smaller screens */
+      margin-left: 35%;
+      width: 30%;
+    }
+  
+    .tab-button {
+      margin-left: 10px;
+      width: calc(50% - 10px); /* Adjust the button width for smaller screens */
+    }
+  }
