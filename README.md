@@ -219,11 +219,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [OpenAI.com]: https://img.shields.io/badge/Open%20AI-00aff0?style=for-the-badge&logo=openai&logoColor=white
 [OpenAI-url]: https://openai.com/
 
-[MySQL.com]: https://www.mysql.com/](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL.com]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
 
-[PHP.net]: https://www.php.net/](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[PHP.net]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [PHP-url]: https://www.php.net/
 
-[visualstudio.com]: https://code.visualstudio.com/](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[visualstudio.com]:https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [visualstudio-url]: https://code.visualstudio.com/
