@@ -39,6 +39,24 @@ Real-time insights and candidate matching, crucial for identifying the ideal fit
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Proposed Solution  -->
+## Proposed Solution: Transformative Recruitment Lifecycle Automation
+To address these challenges, we aim to develop a comprehensive, automated recruitment lifecycle management system. Our goal is to integrate seamlessly with Lever and other existing tools to create a unified platform that simplifies and accelerates the entire recruitment process.<br><br>
+  <b>Key Features:</b><br>
+<ul>
+
+  <li>
+    <b>Efficient Boosting:</b><br>
+    By leveraging advanced technologies and intelligent algorithms, we significantly reduce the time spent on repetitive and time-consuming activities, such as the manual tagging of resumes. from 2-3 minutes of manual tagging per resume to less than one minute in generating tags.
+  </li>
+  <li>
+    <b>Efficient Boosting:</b><br>
+    By leveraging advanced technologies and intelligent algorithms, we significantly reduce the time spent on repetitive and time-consuming activities, such as the manual tagging of resumes. from 2-3 minutes of manual tagging per resume to less than one minute in generating tags.
+  </li>
+</ul>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
