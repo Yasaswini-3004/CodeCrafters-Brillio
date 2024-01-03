@@ -50,8 +50,20 @@ To address these challenges, we aim to develop a comprehensive, automated recrui
     By leveraging advanced technologies and intelligent algorithms, we significantly reduce the time spent on repetitive and time-consuming activities, such as the manual tagging of resumes. from 2-3 minutes of manual tagging per resume to less than one minute in generating tags.
   </li>
   <li>
-    <b>Efficient Boosting:</b><br>
-    By leveraging advanced technologies and intelligent algorithms, we significantly reduce the time spent on repetitive and time-consuming activities, such as the manual tagging of resumes. from 2-3 minutes of manual tagging per resume to less than one minute in generating tags.
+    <b>Accuracy matching</b><br>
+    Accurate matching in our solution involves precisely aligning candidate profiles with the requirements of specific job roles. Recruiters can confidently identify candidates whose profiles align closely with the needs of the organization, facilitating a more effective and targeted recruitment process.
+  </li>
+  <li>
+    <b>User-Friendly Interface</b><br>
+    The user-friendly interface in our system is designed to enhance the overall experience for recruiters. It features an intuitive HR profile with calendar functionality, a dashboard, login signup, and recruiters can easily access and view basic details extracted from resumes, providing a quick and comprehensive overview of candidate profiles.
+      </li>
+  <li>
+    <b>Automated Communication</b><br>
+    Automated communication in our system streamlines the process of reaching out to candidates. By leveraging the power of automation, recruiters can send emails efficiently based on predefined criteria, such as the percentage match between a candidate and a job role. This not only saves time but also ensures timely communication with potential candidates.
+  </li>
+  <li>
+    <b>Job Postings</b><br>
+    Our Job Posting feature is designed to empower recruiters in advertising positions effectively. Recruiters can create and publish job listings directly from the platform, streamlining the process and ensuring timely exposure to potential candidates. The feature allows for customization, enabling recruiters to highlight key details and attract the right talent.
   </li>
 </ul>
 
