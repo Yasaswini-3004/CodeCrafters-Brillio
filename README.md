@@ -7,7 +7,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#problem-statement">Problem Statement</a></li>
+    <li><a href="#problem-statement">Problem Statement: Bridging the Talent Gap with Automated Recruitment Lifecycle Management</a></li>
     <li><a href="#proposed-solution">Proposed Solution</a></li>
     <li>
       <a href="#built-with">Built With</a>
