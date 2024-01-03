@@ -41,7 +41,7 @@ Real-time insights and candidate matching, crucial for identifying the ideal fit
 
 
 <!-- Proposed Solution  -->
-## Proposed Solution: Transformative Recruitment Lifecycle Automation
+## <a name="proposed-solution"></a>Proposed Solution: Transformative Recruitment Lifecycle Automation
 To address these challenges, we aim to develop a comprehensive, automated recruitment lifecycle management system. Our goal is to integrate seamlessly with Lever and other existing tools to create a unified platform that simplifies and accelerates the entire recruitment process.<br><br>
   <b>Key Features:</b><br>
 <ul>
@@ -71,7 +71,7 @@ To address these challenges, we aim to develop a comprehensive, automated recrui
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
+### <a name="built-with"></a>Built With
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![React][React.js]][React-url]
