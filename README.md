@@ -154,7 +154,7 @@ Access the application at http://localhost:3000 in your browser.
 
 
 <!-- ACKNOWLEDGMENTS -->
-### a name="ack"></a>Acknowledgments
+### <a name="ack"></a>Acknowledgments
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
