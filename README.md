@@ -89,8 +89,11 @@ Tools and technologies that are integrated into the project to enhance its funct
 
 <!-- Output  -->
 ### <a name="output"></a>Output
-This section showcases the results and outputs achieved through our project implementation.<br><br>
+<div align="justify">
+  This section showcases the results and outputs achieved through our project implementation.<br><br>
 After initiating the npm script, our local server launches automatically. This action triggers the opening of a web browser displaying a user interface resembling the screenshot showcased below. The screenshot offers a visual representation of the application's initial appearance in the local environment.
+</div>
+
 
 ![Screenshot (234)](https://github.com/Yasaswini-3004/CodeCrafters-Brillio/assets/54450118/579e0aa6-b076-4c24-92d2-41de10e4cfec)
 
