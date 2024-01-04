@@ -19,6 +19,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#running">Running the Application</a></li>
       </ul>
     </li>
     <li><a href="#system-architecture">System Architecture</a></li>
@@ -131,7 +132,7 @@ Using Yarn:
 ```bash
 yarn install
 ```
-#### Running the Application
+#### a name="running"></a>Running the Application
 Start the development server:
 ```bash
 npm start
