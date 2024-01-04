@@ -101,38 +101,46 @@ After successful login, it redirects to the homepage shown below
 
 
 <!-- GETTING STARTED -->
-### Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### <a name="getting-started"></a>Getting Started
+Follow these steps to get this project up and running on your local machine.
 
 <!-- Prerequisites -->
 #### Prerequisites
+Ensure your development environment includes the following:
+* <b>Node.js</b>: Install Node.js (v14.x or higher) from nodejs.org.
+* <b>npm or Yarn</b>: Choose either npm (v6.x or higher) or Yarn (v1.22 or higher) as your package manager.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-  
+
 <!-- Installation -->
 #### Installation
+**1. Clone the repository:**
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+```
+**2. Navigate to the project directory:**
+```bash
+cd your-project
+```
+**3. Install dependencies:**<br>
+Using npm:
+```bash
+npm install
+```
+Using Yarn:
+```bash
+yarn install
+```
+#### Running the Application
+Start the development server:
+```bash
+npm start
+```
+or
+```bash
+yarn start
+```
+Access the application at http://localhost:3000 in your browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
