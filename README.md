@@ -113,6 +113,9 @@ Follow these steps to get this project up and running on your local machine.
 Ensure your development environment includes the following:
 * <b>Node.js</b>: Install Node.js (v14.x or higher) from nodejs.org.
 * <b>npm or Yarn</b>: Choose either npm (v6.x or higher) or Yarn (v1.22 or higher) as your package manager.
+* XAMPP web server
+* Any Editor (Preferably VS Code or Sublime Text)
+* Any web browser with latest version
 
 
 <!-- Installation -->
