@@ -148,6 +148,8 @@ Access the application at http://localhost:3000 in your browser.
 
 <!-- System Architecture -->
 ### <a name="system-architecture"></a>System Architecture
+Here's a high-level overview of our system architecture, illustrating the interconnected components and their functionalities.<br><br>
+![WhatsApp Image 2024-01-04 at 20 16 36_fa77b7be](https://github.com/Yasaswini-3004/CodeCrafters-Brillio/assets/54450118/9e80a231-f185-4839-a5db-fecf3cf83bc1)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
