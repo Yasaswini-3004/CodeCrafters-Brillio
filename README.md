@@ -132,7 +132,7 @@ Using Yarn:
 ```bash
 yarn install
 ```
-#### a name="running"></a>Running the Application
+#### <a name="running"></a>Running the Application
 Start the development server:
 ```bash
 npm start
