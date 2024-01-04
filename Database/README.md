@@ -9,7 +9,7 @@ Download and install XAMPP from the [official website](https://www.apachefriends
 Clone or download this repository to your local machine.
 
 ### 3. Move Files to XAMPP's htdocs
-Locate your XAMPP installation directory and navigate to the htdocs folder. This directory typically exists where XAMPP is installed, such as C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS. Extract all the files from the downloaded repository and move them to the `htdocs` folder in your XAMPP installation directory.
+Locate your XAMPP installation directory and navigate to the htdocs folder. This directory typically exists where XAMPP is installed, such as C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS. Extract all the files from the 'Backend' repository and move them to the `htdocs` folder in your XAMPP installation directory.
 
 ### 4. Start Apache and MySQL
 
