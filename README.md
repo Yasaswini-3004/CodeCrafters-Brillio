@@ -123,7 +123,7 @@ Ensure your development environment includes the following:
 **1. Clone the repository:**
 
    ```bash
-   git clone https://github.com/Yasaswini-3004/CodeCrafters-Brillio/.git
+   git clone https://github.com/Yasaswini-3004/CodeCrafters-Brillio.git
 ```
 **2. Navigate to the project directory:**
 ```bash
