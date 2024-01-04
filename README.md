@@ -23,8 +23,8 @@
       </ul>
     </li>
     <li><a href="#system-architecture">System Architecture</a></li>
-    <li><a href="#about-us">About Us</a></li>
-    <li><a href="#about-us">Acknowledgments</a></li>
+   <!-- <li><a href="#about-us">About Us</a></li>-->
+    <li><a href="ack">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -146,9 +146,15 @@ Access the application at http://localhost:3000 in your browser.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- System Architecture -->
+### <a name="system-architecture"></a>System Architecture
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGMENTS -->
-### Acknowledgments
+### a name="ack"></a>Acknowledgments
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
