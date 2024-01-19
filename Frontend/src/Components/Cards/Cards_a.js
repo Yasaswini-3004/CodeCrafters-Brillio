@@ -5,7 +5,6 @@ import emailjs from '@emailjs/browser';
 import styled from 'styled-components';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch, faTimes } from '@fortawesome/free-solid-svg-icons';
-// import Dashboard from './Dashboard';
 import PropTypes from 'prop-types';
 import Calendar1 from '../Calendar/Calender';
 import HighMatchCandidates from './HighMatchCandidates';
@@ -148,16 +147,16 @@ const ResponsiveCard = () => {
         setDisplayAlert(true);
         setTimeout(() => {
           setDisplayAlert(false);
-        }, 8000); 
+        }, 5000); 
       });
 
-      fetch('http://localhost/storeData.php', {
+      fetch('http://localhost/CodeCrafters/storeData.php', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
         },
         body: `fullName=${encodeURIComponent(recipientFullName)}&email=${encodeURIComponent(recipientEmail)}`,
-    })
+})
         .then((response) => response.json())
         .then((data) => {
             if (data.status === 'success') {
@@ -297,6 +296,12 @@ const ResponsiveCard = () => {
   //       }, 5000); // Hide the alert after 5 seconds
   //     });
   // };
+  const getCandidatesWithHighMatchCount = () => {
+    return filteredData.filter((card) => card.matchPercentage >= matchThreshold).length;
+  };
+
+  const highMatchCount = getCandidatesWithHighMatchCount();
+  
   const handleSendEmails = () => {
     setShowBlur(true);
 
@@ -336,7 +341,7 @@ const ResponsiveCard = () => {
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded',
                 },
-                body: `names=${encodeURIComponent(names)}&emails=${encodeURIComponent(emails)}`,
+                body: `fullName=${encodeURIComponent(names)}&email=${encodeURIComponent(emails)}`,
             });
         })
         .then((response) => response.json())
@@ -354,7 +359,8 @@ const ResponsiveCard = () => {
         })
         .catch((error) => {
           // const emailAlertMessage = `Emails sent to: ${successfulEmails.join(', ')}`;
-          const emailAlertMessage = `${successfulEmails.length} emails sent successfully!`;
+          const emailAlertMessage = `${highMatchCount} emails sent successfully!`;
+          setAlertType('success');
           setAlertMessage(emailAlertMessage);
             // console.error('Error sending emails:', error);
             // setAlertType('error');
